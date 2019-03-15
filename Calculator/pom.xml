@@ -23,12 +23,10 @@
     </dependency>
   </dependencies>
 <distributionManagement>
-<repository>
-<id>releaseRepo</id>
-<name>releaseRepo</name>
-<url>http://192.168.56.101:8081/nexus/content/repositories/releaseRepo/</url>
-</repository>
+  <repository>
+    <id>hw</id>
+    <url>http://35.243.169.144:8081/nexus/content/repositories/hw</url>
+  </repository>
 </distributionManagement>
-
 </project>
 
