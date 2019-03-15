@@ -1,0 +1,6 @@
+projectKey=com.ravi.cal:RaviCalculator
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/com.ravi.cal:RaviCalculator
+ceTaskId=AWmBTMpdTUOP27xsyRLC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWmBTMpdTUOP27xsyRLC
