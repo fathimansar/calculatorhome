@@ -4,7 +4,7 @@
 
   <groupId>com.ravi.cal</groupId>
   <artifactId>RaviCalculator</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1-</version>
   <packaging>jar</packaging>
 
   <name>RaviCalculator</name>
@@ -22,5 +22,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<distributionManagement>
+<repository>
+<id>releaseRepo</id>
+<name>releaseRepo</name>
+<url>http://192.168.56.101:8081/nexus/content/repositories/releaseRepo/</url>
+</repository>
+</distributionManagement>
+
 </project>
 
